@@ -1,0 +1,84 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.top {
+  width: 100%;
+  background-color: #b4e4ff;
+
+  text-align: center;
+}
+
+.name {
+  color: #00235b;
+  font-family: "Sacramento", cursive;
+  font-size: 90px;
+}
+
+.programming {
+  height: 250px;
+  width: 250px;
+}
+
+.img {
+  float: left;
+  margin-top: 50px;
+  margin-left: 450px;
+}   
+
+.text {
+  margin-top: 50px;
+  margin-right: 450px;
+  font-family: "Merriweather", serif;
+  line-height: 2;
+  color: #00337c;
+}
+
+.com {
+  float: left;
+  margin-left: 450px;
+}
+
+.skills {
+  margin-top: 25px;
+  margin-right: 350px;
+  font-family: "Merriweather", serif;
+}
+
+.cricket {
+  float: right;
+  margin-top: 50px;
+  margin-right: 450px;
+}
+
+.end {
+  background-color: #c0eef2;
+  height: 200px;
+}
+.hobby {
+  margin-top: 50px;
+  margin-left: 380px;
+  font-family: "Varela Round", sans-serif;
+  color: #00337c;
+  font-size: 15px;
+  line-height: 2;
+  width: 300px;
+}
+.ref {
+  color: black;
+  font-size: 25px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.communicat {
+  float: left;
+  margin-left: 450px;
+}
+
+.link {
+  margin-top: 40px;
+  margin-right: 450px;
+  font-size: 18px;
+}
